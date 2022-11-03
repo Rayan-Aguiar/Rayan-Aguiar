@@ -11,11 +11,11 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Rayan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rayan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rayan-Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" />  
-  <img align="center" alt="Rayan-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-  <img align="center" alt="Rayan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="Rayan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rayan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rayan-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+  <img align="center" alt="Rayan-tailwindcss" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+  <img align="center" alt="Rayan-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="Rayan-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
   <img align="right" alt="Rayan-pic" height="150" style="border-radius:50px;" src="https://scontent-gru1-1.xx.fbcdn.net/v/t39.30808-6/302709691_5319670311463002_2258185707458120160_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeFrVKCHypHx36QOf_bIjcUp4mDwhP3Opx_iYPCE_c6nH9dWU7NYGzHBH-KQMe60RjvVkQU5-dzWx5kIWkdOleYd&_nc_ohc=xhburKdhrSEAX8wpR4F&tn=rSaRqM1pO2MRj6yA&_nc_ht=scontent-gru1-1.xx&oh=00_AfAyN1ot7ychunsfPiuY-YxSX6SBd1xlbh3jTSfML6_gAg&oe=6367DF53">
 </div>
   
