@@ -33,7 +33,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rayan-aguiar&show_icons=true&count_private=true&theme=dracula" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rayan-aguiar&layout=compact&langs_count=6&theme=onedark" height="150" />
-  <img src="https://streak-stats.demolab.com?user=rayan-aguiar&mode=daily&theme=dracula" height="150" />
+  <img src="https://streak-stats.demolab.com?user=rayan-aguiar&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ---
