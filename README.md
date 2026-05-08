@@ -28,12 +28,12 @@
 
 ---
 
-### 📊 Estatísticas  
+### 📊 Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rayan-Aguiar&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayan-Aguiar&layout=compact&langs_count=6&theme=dracula" height="150" alt="Top languages" />
-  <img src="https://streak-stats.demolab.com?user=Rayan-Aguiar&theme=dracula" height="150" alt="GitHub streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rayan-Aguiar&theme=dracula" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rayan-Aguiar&theme=dracula" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rayan-Aguiar&theme=dracula" />
 </div>
 
 ---
