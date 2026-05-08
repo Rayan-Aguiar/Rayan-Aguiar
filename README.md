@@ -31,9 +31,14 @@
 ### 📊 Estatísticas
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rayan-Aguiar&theme=dracula" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rayan-Aguiar&theme=dracula" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rayan-Aguiar&theme=dracula" />
+  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rayan-Aguiar&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rayan-Aguiar&layout=compact&theme=dracula" alt="Top Languages" />
+</div>
+
+### 📈 Resumo do Perfil
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rayan-Aguiar&theme=dracula" alt="Profile Details" />
 </div>
 
 ---
