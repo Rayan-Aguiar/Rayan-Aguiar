@@ -23,18 +23,10 @@ Mais do que aprender tecnologias, gosto de entender como sistemas se comportam e
 
 ---
 
-### 📊 Estatísticas
-
-<div align="center">
-  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rayan-Aguiar&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rayan-Aguiar&layout=compact&theme=dracula" alt="Top Languages" />
-</div>
-
-### 📈 Resumo do Perfil
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rayan-Aguiar&theme=dracula" alt="Profile Details" />
-</div>
+### 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=rayan-aguiar&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
+![](https://streak-stats.demolab.com/?user=rayan-aguiar&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=rayan-aguiar&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
