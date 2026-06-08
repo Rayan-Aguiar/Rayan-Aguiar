@@ -1,6 +1,6 @@
 <h2 align="center">Olá, eu sou Rayan Aguiar! 👋</h2>
 
-<p align="center">🚀 Backend Engineer • Software Architecture • Distributed Systems
+<p align="center">🚀 Backend Engineer • Software Architecture • Distributed Systems<br/>
 Construindo sistemas escaláveis, integrações corporativas e soluções backend orientadas a performance.</p>
 
 ---
